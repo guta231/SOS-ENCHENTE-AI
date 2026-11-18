@@ -1,8 +1,17 @@
-# CitizenTech — Zonas de Risco de São Paulo
+# SOS Enchente — Zonas de Risco de São Paulo
 
 Projeto acadêmico de Machine Learning que agrupa distritos de São Paulo em **Zonas de Risco**, cruzando vulnerabilidade social (famílias em extrema pobreza) e ocorrências de alagamento, para apoiar a Defesa Civil na priorização preventiva de resgates.
 
 > **Importante:** o projeto não gera dados simulados. As duas bases são fornecidas separadamente no arquivo `databases.tar.gz`.
+
+## Integrantes do Grupo
+
+*   Gabriel Luni Nakashima - RM558096
+*   Gustavo Henrique - RM556712
+*   Milena Garcia - RM555111
+*   Renan Simões Gonçalves - RM555584
+*   Vinicius Vilas Boas - RM557843
+
 
 ## Estrutura do projeto
 
